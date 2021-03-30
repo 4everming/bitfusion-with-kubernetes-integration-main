@@ -2,7 +2,7 @@
 
 This project is a collection of tools for Bitfusion to be used with Kubernetes and Docker.
 It contains:<br/>
-1.[Bitfusion device plugin for Kubernetes](./bitfusion_device_plugin/Readme.md) (For Kubernetes users).<br/>
+1.[Bitfusion device plugin for Kubernetes](./bitfusion_device_plugin) (For Kubernetes users).<br/>
 2.[Dockerfile templates for Bitfusion client](./Dockerfiles) (For Docker users).<br/>
 3.[Shell scripts to accelerate the deployment](./nvidia-env.sh) (For Docker users).<br/>
 
